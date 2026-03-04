@@ -1,6 +1,6 @@
 package JAVA_BASIC;
 
-public class DataType{
+public class DataType3 {
     public static void main(String[] args) {
         System.out.println("this class is about datatype in java:");
     }
