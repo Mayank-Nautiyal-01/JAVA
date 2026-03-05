@@ -101,3 +101,33 @@ public class java_run1 {
 //JVM is the Engine. It’s the part that actually "does" the work of running the program, regardless of which OS you are on.
 //JAVAC is the Translator. It turns your English-like code into the JVM's "native" language (Bytecode).
 //JIT is the Performance Booster. It makes Java fast by turning frequently used bytecode into actual machine code while the program is running.
+
+//===================================================================
+
+//How Java Works: The Compilation & Execution Flow
+//Java's power comes from its unique two-stage process: it is both compiled and interpreted. This allows for "Write Once, Run Anywhere" (WORA), where code can run on any device that has a Java Virtual Machine (JVM).
+//
+//------>The 2-Stage Process
+//The journey of code from your editor to the CPU happens in two main phases:
+//
+//-----Phase 1: Compilation (Write Once)
+//What happens: Your human-readable Java source code (.java) is converted into an intermediate format called Bytecode.
+//Tools used: javac (the Java Compiler).
+//              Result: A .class file.
+//Why? Bytecode is not specific to any processor (Intel, Apple, etc.) or OS (Windows, Linux, macOS). It's a "generic" machine language for the JVM.
+//
+//--------Phase 2: Execution (Run Anywhere)
+//What happens: The JVM reads the bytecode and translates it into actual machine code that your computer's CPU understands.
+//Process: The JVM includes an Interpreter and a Just-In-Time (JIT) Compiler.
+//Performance: For performance, the JIT compiler turns frequently-run bytecode into native machine code directly.
+//        Result: Your program runs on the host device.
+//
+//     ====>   Why "Write Once, Run Anywhere"?
+//In languages like C or C++, you have to compile separate versions of your program for Windows, Linux, and Mac. If you give a Windows-compiled program to a Mac user, it won't work.
+//
+//In Java:
+//
+//-You compile into one set of Bytecode.
+//-You give that bytecode to anyone.
+//-As long as they have a JVM (downloaded via the JDK/JRE) on their system, it handles the "translation" to their specific machine.
+//
