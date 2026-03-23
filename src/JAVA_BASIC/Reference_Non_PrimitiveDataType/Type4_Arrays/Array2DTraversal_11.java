@@ -73,7 +73,7 @@ public class Array2DTraversal_11 {
 
     6. Common Mistake:
 
-       for (int j = 0; j < matrix.length; j++)  // ❌ wrong
+       for (int j = 0; j < matrix.length; j++)  //  wrong
        → should use matrix[i].length
 
 
