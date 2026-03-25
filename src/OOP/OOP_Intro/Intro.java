@@ -23,6 +23,15 @@ It allows us to model real-world entities by combining:
 Example:
 A Car has properties (brand, color) and actions (drive, stop).
 
+--> sometimes people call it oops
+== Then what is “OOPS”?
+“OOPS” is not the official term
+It’s just an informal way people use (especially in India)
+
+Some expand it as:
+
+Object-Oriented Programming System
+
 
         2. What is a Class?
 
