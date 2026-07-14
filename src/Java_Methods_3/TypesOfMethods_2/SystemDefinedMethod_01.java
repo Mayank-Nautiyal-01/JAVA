@@ -1,4 +1,4 @@
-package Java_Methods_3.TypesOfMethods_2;
+// package Java_Methods_3.TypesOfMethods_2;
 
 public class SystemDefinedMethod_01 {
     public static void main(String[] args) {

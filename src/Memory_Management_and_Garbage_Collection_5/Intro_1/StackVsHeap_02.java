@@ -1,4 +1,4 @@
-package Memory_Management_and_Garbage_Collection_5.Intro_1;
+// package Memory_Management_and_Garbage_Collection_5.Intro_1;
 
 public class StackVsHeap_02 {
     public static void main(String[] args) {

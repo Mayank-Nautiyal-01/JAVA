@@ -1,4 +1,4 @@
-package Java_Constructor_4.Intro_01;
+// package Java_Constructor_4.Intro_01;
 
 public class ConstructorVsMethod_02 {
     public static void main(String[] args) {

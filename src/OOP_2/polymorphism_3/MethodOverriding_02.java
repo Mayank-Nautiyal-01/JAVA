@@ -1,4 +1,4 @@
-package OOP_2.polymorphism_3;
+// package OOP_2.polymorphism_3;
 
 public class MethodOverriding_02 {
     public static void main(String[] args) {

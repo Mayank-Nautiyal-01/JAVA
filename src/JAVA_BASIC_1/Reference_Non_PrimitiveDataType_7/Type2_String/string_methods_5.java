@@ -1,4 +1,4 @@
-package JAVA_BASIC_1.Reference_Non_PrimitiveDataType_7.Type2_String;
+// package JAVA_BASIC_1.Reference_Non_PrimitiveDataType_7.Type2_String;
 
 public class string_methods_5 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package OOP_2.OOP_Comparison_5;
+// package OOP_2.OOP_Comparison_5;
 
 public class Abstraction_vs_Encapsulation {
     public static void main(String[] args) {

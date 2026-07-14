@@ -1,4 +1,4 @@
-package OOP_2.encapsulation_1;
+// package OOP_2.encapsulation_1;
 
 
 public class GetterSetter_02 {

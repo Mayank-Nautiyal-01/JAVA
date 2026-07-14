@@ -1,4 +1,4 @@
-package Memory_Management_and_Garbage_Collection_5.MemoryTypes_02;
+// package Memory_Management_and_Garbage_Collection_5.MemoryTypes_02;
 
 
 public class DataStorageExample_03 {

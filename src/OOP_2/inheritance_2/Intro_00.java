@@ -1,4 +1,4 @@
-package OOP_2.inheritance_2;
+// package OOP_2.inheritance_2;
 
 public class Intro_00 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package JAVA_BASIC_1;
+// package JAVA_BASIC_1;
 
 public class DecisionMaking7 {
     public static void main(String[] args) {

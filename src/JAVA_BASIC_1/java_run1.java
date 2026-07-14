@@ -1,4 +1,4 @@
-package JAVA_BASIC_1;
+// package JAVA_BASIC_1;
 
 public class java_run1 {
     public static void main(String[] args) {

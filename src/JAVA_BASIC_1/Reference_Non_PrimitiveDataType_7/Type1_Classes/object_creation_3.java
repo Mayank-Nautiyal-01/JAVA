@@ -1,4 +1,4 @@
-package JAVA_BASIC_1.Reference_Non_PrimitiveDataType_7.Type1_Classes;
+// package JAVA_BASIC_1.Reference_Non_PrimitiveDataType_7.Type1_Classes;
 
 public class object_creation_3 {
     int num=10;

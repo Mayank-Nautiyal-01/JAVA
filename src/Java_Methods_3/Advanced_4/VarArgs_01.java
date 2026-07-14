@@ -1,4 +1,4 @@
-package Java_Methods_3.Advanced_4;
+// package Java_Methods_3.Advanced_4;
 
 public class VarArgs_01 {
     public static void main(String[] args) {

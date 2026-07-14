@@ -1,4 +1,4 @@
-package OOP_2.encapsulation_1;
+// package OOP_2.encapsulation_1;
 
 public class ImmutableClass_03 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Memory_Management_and_Garbage_Collection_5.References_3;
+// package Memory_Management_and_Garbage_Collection_5.References_3;
 
 public class StrongReference_01 {
     public static void main(String[] args) {

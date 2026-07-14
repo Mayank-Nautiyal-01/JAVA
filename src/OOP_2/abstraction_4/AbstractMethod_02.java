@@ -1,4 +1,4 @@
-package OOP_2.abstraction_4;
+// package OOP_2.abstraction_4;
 
 public class AbstractMethod_02 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package OOP_2.polymorphism_3;
+// package OOP_2.polymorphism_3;
 
 public class Intro_00 {
     public static void main(String[] args) {

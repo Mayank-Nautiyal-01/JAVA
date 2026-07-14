@@ -1,4 +1,4 @@
-package OOP_2.encapsulation_1;
+// package OOP_2.encapsulation_1;
 
 //class with encapsulation applied
 class Student{

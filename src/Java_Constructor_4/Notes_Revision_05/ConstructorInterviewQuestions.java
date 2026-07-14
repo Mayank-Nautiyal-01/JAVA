@@ -1,4 +1,4 @@
-package Java_Constructor_4.Notes_Revision_05;
+// package Java_Constructor_4.Notes_Revision_05;
 
 public class ConstructorInterviewQuestions {
     public static void main(String[] args) {

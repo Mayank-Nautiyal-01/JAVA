@@ -1,4 +1,4 @@
-package JAVA_BASIC_1.Reference_Non_PrimitiveDataType_7.Type1_Classes;
+// package JAVA_BASIC_1.Reference_Non_PrimitiveDataType_7.Type1_Classes;
 
 // many one have a confusion about static and non-static variable lets see
 

@@ -1,4 +1,4 @@
-package Memory_Management_and_Garbage_Collection_5.Intro_1;
+// package Memory_Management_and_Garbage_Collection_5.Intro_1;
 
 import java.util.*;
 public class WhatIsMemoryManagement_01 {

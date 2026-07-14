@@ -1,4 +1,4 @@
-package Java_Constructor_4.Types_02;
+// package Java_Constructor_4.Types_02;
 
 public class ParameterizedConstructor_02 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package JAVA_BASIC_1.Reference_Non_PrimitiveDataType_7.Type4_Arrays;
+// package JAVA_BASIC_1.Reference_Non_PrimitiveDataType_7.Type4_Arrays;
 
 /*
     File: Array2DBasic_10.java

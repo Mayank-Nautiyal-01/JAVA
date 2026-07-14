@@ -1,4 +1,4 @@
-package JAVA_BASIC_1.Reference_Non_PrimitiveDataType_7.Type3_Interface;
+// package JAVA_BASIC_1.Reference_Non_PrimitiveDataType_7.Type3_Interface;
 
 interface Animal {
     void sound();   // abstract method
