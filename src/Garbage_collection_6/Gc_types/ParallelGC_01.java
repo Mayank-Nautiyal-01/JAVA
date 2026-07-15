@@ -1,3 +1,5 @@
+package Gc_types;
+
 public class ParallelGC_01 {
 
     public static void main(String[] args) {

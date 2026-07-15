@@ -1,3 +1,5 @@
+package Gc_types;
+
 public class ZGC_03 {
 
     public static void main(String[] args) {

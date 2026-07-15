@@ -1,3 +1,4 @@
+package Gc_types;
 
 public class G1GC_02 {
 
